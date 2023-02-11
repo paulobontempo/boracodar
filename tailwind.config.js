@@ -19,7 +19,9 @@ module.exports = {
         header: '#E1E1E6;',
         container: '#2A2141;',
         numbers: '#C4C4CC;',
-        numbersNext: '#D9D9D9;'
+        numbersNext: '#D9D9D9;',
+        P002bg: '#D9CDF7;'
+
       }
     },
   },
