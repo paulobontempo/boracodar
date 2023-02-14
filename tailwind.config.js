@@ -14,6 +14,8 @@ module.exports = {
         sans: ['Roboto', 'sans-serif'],
         lato: ['lato', 'sans-serif'],
         crimsonPro: ['Crimson Pro'],
+        inter: ['inter'],
+        roboto: ['Roboto'],
       },
 
       colors: {
@@ -23,7 +25,9 @@ module.exports = {
         numbers: '#C4C4CC;',
         numbersNext: '#D9D9D9;',
         P002bg: '#D9CDF7;',
-        P002Heading: '#271A45;'
+        P002Heading: '#271A45;',
+        P003bg: '#1E1E1E;',
+        P003bgTableHeader: '#1C162C;',
 
       }
     },
