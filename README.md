@@ -16,7 +16,7 @@ Design projects to improve front-end skills
                 <th>#</th>
                 <th>name</th>
                 <th>Prototype</th>
-                <th>View</th>
+                <th>Live demo 🔥</th>
             </tr>
         </thead>
         <tbody>
@@ -24,13 +24,13 @@ Design projects to improve front-end skills
                 <td>01</td>
                 <td>Music Player</td>
                 <td>https://www.figma.com/community/file/1195050524500542670</td>
-                <td>https://boracodar-puce.vercel.app/P001</td>
+                <td><a href="https://boracodar-puce.vercel.app/P001" target="_blank">Challenge 01</a></td>
             </tr>
             <tr>
-                <td>01</td>
-                <td>Music Player</td>
+                <td>02</td>
+                <td>Shop Detail</td>
                 <td>https://www.figma.com/community/file/1195050984449538256</td>
-                <td>https://boracodar-puce.vercel.app/P002</td>
+                <td><a href="https://boracodar-puce.vercel.app/P002" target="_blank">Challenge 02</a></td>
             </tr>
         </tbody>
     </table>
